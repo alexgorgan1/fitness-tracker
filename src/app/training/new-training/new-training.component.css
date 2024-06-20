@@ -1,0 +1,12 @@
+.new-trainining {
+  padding: 40px 0;
+}
+mat-card {
+  padding: 30px 20px;
+}
+mat-card-title {
+  margin-bottom: 20px;
+}
+::ng-deep mat-form-field .mat-mdc-text-field-wrapper {
+  min-width: 220px;
+}
